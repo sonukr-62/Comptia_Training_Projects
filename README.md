@@ -1,6 +1,6 @@
-# CompTIA Data & AI Training Projects
+# CompTIA DataAI Training Projects
 
-## 📚 Data & AI Training Portfolio
+## 📚 CompTIA DataAI Training Portfolio
 
 This repository contains the projects, practical exercises, and machine learning experiments completed during my **CompTIA DataAI Training Program**.
 
